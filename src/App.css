@@ -1,0 +1,16 @@
+.square {
+    text-align: center;
+    border: 1px solid rgb(173, 163, 163);
+    width: 3.75rem;
+    height: 3.75rem;
+    outline: none;
+    font-size: 32px;
+    font-weight: bolder;
+    background-color: white;
+}
+.board-row{
+    display: flex;
+    flex-direction: row;
+    height: 3.75rem;
+    max-height: 3.75rem;
+}
